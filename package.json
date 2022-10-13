@@ -1,15 +1,16 @@
 {
-  "name": "template-heading",
+  "name": "gov-auth-app",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "antd": "4.21.7",
+    "antd": "4.23.3",
+    "got": "12.5.1",
     "passport-local": "1.0.0",
     "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
